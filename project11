@@ -1,0 +1,60 @@
+General Concepts
+
+
+
+1)	Linux System Admin: - A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems; especially multi-user computers, such as servers.
+
+2)	System Engineer:-He integrates all the disciplines and specialty groups into a team effort forming a structured development process that proceeds from concept to production to operation.
+
+
+3)	DevOps:- It is a culture or practice that emphasizes on  the collaboration and communication of both software developers and information technology (IT) professionals while automating the process of software delivery and infrastructure changes. It aims at establishing a culture and environment where building, testing, and releasing software can happen rapidly, frequently, and more reliably.
+
+4)	Code:-These are Instructions written by a programmer in a programming language and are often called source code. 
+
+5)	Environment:- DEV,  SAT,  CAT , PRD
+
+6)	VCS:-(Version Control System) Is a system that allows multiple users to manage multiple revisions of the same unit of information. It is the snapshot of your project over time.
+
+7)	RCS:- (Revision Control System) is a method for creating, editing, and using filesshare with other users.
+
+8)	GIT:-  Is a distributed version control system used in software development with emphasis on speed data integrity and support of distributer non-linear workflows. Git can be used anywhere.
+
+9)	GITHUB:-is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.
+
+10)	Cloud Computing:-the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
+
+11)	PaaS:- (Platform as a service )is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+
+12)	SaaS:-(Software as a service) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. SaaS is typically accessed by users using a thin client via a web browser.
+
+13)	AWS:- (Amazon Web Services)is a comprehensive, evolving cloud computing platform provided by Amazon.com.
+
+14)	Jenkins:-It is an open source CI tool written in the Java programming language for testing and reporting on isolated changes in a larger code base I real time. The software enables developers to find  and solve defects in a code base rapidly and to automate testing on their builds.
+
+15)	Automation:-Is the technique of making  a process, or a system operate automatically.
+
+16)	Ansible:- It is a radically simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs.
+
+17)	Puppet: - Puppet is an open-source software configuration management tool. It runs on many Unix-like systems as well as on Microsoft Windows, and includes its own declarative language to describe system configuration.
+
+18)	Splunk:-     is an application that produces software for searching, monitoring, and analyzing machine-generated big data, via a web-style interface.[1]
+Splunk  captures, indexes, and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards, and visualizations
+
+
+19)	ReleaseManagement:-Release management is the process of managing, planning, scheduling and controlling a  Release and Deployment Management process, which "aims to plan, schedule and control the movement of releasesto test and live environments.
+
+20)	Release dateThe date that changes made in the lowest regions goes to productions.
+
+21)	Code Testing:-It is the system by which the code get tested to make sure they are good before the release date.
+
+22)	Continuous Integration (CI):- It is the practice of merging all developer working copies to a shared mainline several times a day.
+
+23)	Continuous Delivery (CD):-It is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time.
+
+24)	Continuous Deployment:-It is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently.
+
+25)	Agile:-Is a software development that refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. Agile methods or Agile processes generally promote a disciplined project management process that encourages frequent inspection and adaptation, a leadership philosophy that encourages teamwork, self-organization and accountability, a set of engineering best practices intended to allow for rapid delivery of high-quality software, and a business approach that aligns development with customer needs and company goals.
+
+26)	Scrum:-Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. 
+
+27)	Ticketing System:-A ticketing system allows IT support to be organized, focused, efficient, and effective. Ultimately, ticketing systems are a means to support and help you deal with any issues/incidents in your organization, managing the incidents from the moment they're captured through to their resolution.
